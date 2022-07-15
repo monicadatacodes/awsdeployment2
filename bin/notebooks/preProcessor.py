@@ -87,6 +87,6 @@ class preProcessorText():
             
         return processedSentenceList    
     
-processObject = preProcessorText()  
-processedSentenceList = processObject.preProcess() 
-print("\n List of processed sentences : \n\n {}".format(processedSentenceList))   
+# processObject = preProcessorText()  
+# processedSentenceList = processObject.preProcess() 
+# print("\n List of processed sentences : \n\n {}".format(processedSentenceList))   
